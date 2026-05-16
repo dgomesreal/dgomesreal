@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dgomesreal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dgomesreal)
 [![Gmail](https://img.shields.io/badge/Gmail-dgomesreal@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dgomesreal@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dgomesreal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dgomesreal)]
+[![GitHub](https://img.shields.io/badge/GitHub-dgomesreal-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dgomesreal)
 
 </div>
 
